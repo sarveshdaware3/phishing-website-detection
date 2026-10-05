@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import joblib
 import pandas as pd
@@ -253,4 +253,3 @@ st.markdown("---")
 st.caption(
     "Phishing Website Detection using Machine Learning"
 )
-```
